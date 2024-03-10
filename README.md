@@ -1,1 +1,1 @@
-# CNG-491-492
+# CNG-491-492 Graduation Project Design and Implementation
